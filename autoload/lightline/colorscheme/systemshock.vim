@@ -31,4 +31,4 @@ let s:p.tabline.right = copy(s:p.tabline.middle)
 let s:p.normal.error = [ [ s:red, s:base02 ] ]
 let s:p.normal.warning = [ [ s:yellow, s:base01 ] ]
 
-let g:lightline#colorscheme#system-shock#palette = lightline#colorscheme#flatten(s:p)
+let g:lightline#colorscheme#systemshock#palette = lightline#colorscheme#flatten(s:p)
