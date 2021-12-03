@@ -78,7 +78,7 @@ hi String guifg=#444444 guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE 
 hi PMenuThumb guifg=NONE guibg=#a4a6a8 guisp=#a4a6a8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 hi MatchParen guifg=#131314 guibg=#a39ea3 guisp=#a39ea3 gui=bold ctermfg=233 ctermbg=248 cterm=bold
 hi LocalVariable guifg=#f0f0f0 guibg=NONE guisp=NONE gui=NONE ctermfg=255 ctermbg=NONE cterm=NONE
-hi Repeat guifg=#a1c1c2 guibg=NONE guisp=NONE gui=NONE ctermfg=152 ctermbg=NONE cterm=NONE
+hi Repeat guifg=#e0e0e0 guibg=NONE guisp=NONE gui=NONE ctermfg=152 ctermbg=NONE cterm=NONE
 hi SpellBad guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
 hi CTagsClass guifg=#2459e0 guibg=NONE guisp=NONE gui=NONE ctermfg=26 ctermbg=NONE cterm=NONE
 hi Directory guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
