@@ -34,7 +34,7 @@ hi Conditional guifg=#e0e0e0 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=
 hi StorageClass guifg=#757575 guibg=NONE guisp=NONE gui=NONE ctermfg=60 ctermbg=NONE cterm=NONE
 hi Todo guifg=#d7d7e0 guibg=#3d0011 guisp=#3d0011 gui=NONE ctermfg=254 ctermbg=52 cterm=NONE
 hi Special guifg=#cccccc guibg=NONE guisp=NONE gui=NONE ctermfg=252 ctermbg=NONE cterm=NONE
-hi LineNr guifg=#222222 guibg=#000000 guisp=#1c1b1c gui=NONE ctermfg=242 ctermbg=234 cterm=NONE
+hi LineNr guifg=#444444 guibg=#000000 guisp=#1c1b1c gui=NONE ctermfg=242 ctermbg=234 cterm=NONE
 hi StatusLine guifg=#544251 guibg=#0f0f0f guisp=#0f0f0f gui=bold ctermfg=240 ctermbg=233 cterm=bold
 hi Label guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
 hi PMenuSel guifg=#754b6e guibg=#141412 guisp=#141412 gui=NONE ctermfg=96 ctermbg=233 cterm=NONE
@@ -88,4 +88,4 @@ hi Underlined guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=18
 hi DiffAdd guifg=NONE guibg=#193224 guisp=#193224 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi TabLine guifg=#7a7679 guibg=#252429 guisp=#252429 gui=bold ctermfg=243 ctermbg=235 cterm=bold
 hi cursorim guifg=#192224 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 ctermbg=60 cterm=NONE
-hi cursorlinenr guifg=#777777 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
+hi cursorlinenr guifg=#C0C0C0 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
