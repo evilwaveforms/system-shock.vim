@@ -12,7 +12,7 @@ let s:red = [ '#600000', 88 ]
 let s:magenta = [ '#4F4063', 217 ]
 let s:blue = [ '#606580', 103 ]
 let s:cyan = [ '#72DEC2', 110 ]
-let s:green = [ '#3F9834', 107 ]
+let s:green = [ '#2ee566', 107 ]
 
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 let s:p.normal.left = [ [ s:base02, s:base0 ], [ s:base3, s:base01 ] ]
