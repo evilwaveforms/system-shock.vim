@@ -34,7 +34,7 @@ hi StorageClass guifg=#757575 guibg=NONE guisp=NONE gui=NONE ctermfg=60 ctermbg=
 hi Todo guifg=#d7d7e0 guibg=#3d0011 guisp=#3d0011 gui=NONE ctermfg=254 ctermbg=52 cterm=NONE
 hi Special guifg=#cccccc guibg=NONE guisp=NONE gui=NONE ctermfg=252 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#444444 guibg=#000000 guisp=#1c1b1c gui=NONE ctermfg=242 ctermbg=234 cterm=NONE
-hi StatusLine guifg=#544251 guibg=#0f0f0f guisp=#0f0f0f gui=bold ctermfg=240 ctermbg=233 cterm=bold
+hi StatusLine guifg=#444444 guibg=#000000 guisp=#0f0f0f gui=bold ctermfg=240 ctermbg=233 cterm=bold
 hi Label guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
 hi Search guifg=#0a0a0a guibg=#cccbc8 guisp=#cccbc8 gui=NONE ctermfg=232 ctermbg=252 cterm=NONE
 hi Delimiter guifg=#d4d4d4 guibg=NONE guisp=NONE gui=NONE ctermfg=188 ctermbg=NONE cterm=NONE
