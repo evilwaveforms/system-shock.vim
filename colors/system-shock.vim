@@ -97,4 +97,4 @@ hi pandocAtxHeaderMark guifg=#D79128 guibg=NONE guisp=NONE gui=bold ctermfg=254 
 
 hi Function guifg=#8AAC8B guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NONE cterm=NONE
 hi goFunctionCall guifg=#8AAC8B guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NONE cterm=NONE
-hi Visual guifg=#000000 guibg=#8AAC8B guisp=#F9F9FF gui=NONE ctermfg=235 ctermbg=189 cterm=NONE
+hi Visual guifg=#000000 guibg=#8AAC8B guisp=#F9F9FF gui=NONE ctermfg=0 ctermbg=115 cterm=NONE
