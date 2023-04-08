@@ -4,7 +4,6 @@ Dark minimalistic vim color scheme with some variations.
 
 ## Setup
 
-Use termguicolors. cterm colors are most definitely wrong.
 
 With [vim-plug](https://github.com/junegunn/vim-plug)
 ```
