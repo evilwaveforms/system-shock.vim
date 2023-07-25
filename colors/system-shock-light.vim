@@ -11,7 +11,7 @@ set background=light
 set t_Co=256
 let g:colors_name = "system-shock-light"
 
-hi Normal guifg=#000000 guibg=#FFFFFF guisp=#14140f gui=NONE ctermfg=0 ctermbg=15 cterm=NONE
+hi Normal guifg=#000000 guibg=#EEEEEE guisp=#14140f gui=NONE ctermfg=0 ctermbg=15 cterm=NONE
 hi IncSearch guifg=#192224 guibg=#dedede guisp=#dedede gui=NONE ctermfg=235 ctermbg=253 cterm=NONE
 hi WildMenu guifg=NONE guibg=#A1A6A8 guisp=#A1A6A8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 hi SignColumn guifg=#192224 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 ctermbg=60 cterm=NONE
