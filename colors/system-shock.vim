@@ -12,6 +12,7 @@ set t_Co=256
 let g:colors_name = "system-shock"
 
 hi Normal guifg=#A6A6A6 guibg=#000000 guisp=#14140f gui=NONE ctermfg=248 ctermbg=0 cterm=NONE
+hi CmpMenuBorder guifg=#A6A6A6 guibg=#000000 guisp=#14140f gui=NONE ctermfg=248 ctermbg=0 cterm=NONE
 hi IncSearch guifg=#192224 guibg=#dedede guisp=#dedede gui=NONE ctermfg=235 ctermbg=253 cterm=NONE
 hi WildMenu guifg=NONE guibg=#A1A6A8 guisp=#A1A6A8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 hi SignColumn guifg=#192224 guibg=#000000 guisp=#536991 gui=NONE ctermfg=235 ctermbg=60 cterm=NONE
@@ -44,6 +45,7 @@ hi Character guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NO
 hi TabLineSel guifg=#544251 guibg=#0f0f0f guisp=#0f0f0f gui=bold ctermfg=240 ctermbg=233 cterm=bold
 hi Number guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
+hi luaConstant guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Operator guifg=#EEEEEE guibg=NONE guisp=NONE gui=NONE ctermfg=252 ctermbg=NONE cterm=NONE
 hi TabLineFill guifg=#192224 guibg=#2f3030 guisp=#2f3030 gui=bold ctermfg=235 ctermbg=236 cterm=bold
 hi WarningMsg guifg=#A1A6A8 guibg=#912C00 guisp=#912C00 gui=NONE ctermfg=248 ctermbg=88 cterm=NONE
@@ -87,10 +89,10 @@ hi cursorim guifg=#192224 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 cterm
 hi CursorLine guifg=NONE guibg=#1f1f1f guisp=#1f1f1f gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
 hi cursorlinenr guifg=#949494 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 
-hi PMenu guifg=#808070 guibg=#0c0c0c guisp=#252429 gui=NONE ctermfg=7 ctermbg=235 cterm=NONE
+hi PMenu guifg=#808070 guibg=#000000 guisp=#252429 gui=NONE ctermfg=7 ctermbg=235 cterm=NONE
 hi PMenuSbar guifg=NONE guibg=#848688 guisp=#848688 gui=NONE ctermfg=NONE ctermbg=102 cterm=NONE
-hi PMenuThumb guifg=NONE guibg=#111111 guisp=#a4a6a8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
-hi PMenuSel guifg=#808070 guibg=#000000 guisp=#141412 gui=NONE ctermfg=96 ctermbg=233 cterm=NONE
+hi PMenuThumb guifg=NONE guibg=#808070 guisp=#a4a6a8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
+hi PMenuSel guifg=#000000 guibg=#808070 guisp=#141412 gui=NONE ctermfg=96 ctermbg=233 cterm=NONE
 hi VisualNOS guifg=#192224 guibg=#F9F9FF guisp=#F9F9FF gui=underline ctermfg=235 ctermbg=189 cterm=underline
 
 hi pandocAtxHeader guifg=#D79128 guibg=NONE guisp=NONE gui=bold ctermfg=254 ctermbg=NONE cterm=bold
@@ -100,3 +102,4 @@ hi pandocAtxHeaderMark guifg=#D79128 guibg=NONE guisp=NONE gui=bold ctermfg=254 
 hi Function guifg=#8AAC8B guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NONE cterm=NONE
 hi goFunctionCall guifg=#8AAC8B guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NONE cterm=NONE
 hi Visual guifg=#000000 guibg=#8AAC8B guisp=#F9F9FF gui=NONE ctermfg=0 ctermbg=115 cterm=NONE
+
