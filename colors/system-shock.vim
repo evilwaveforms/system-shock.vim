@@ -69,7 +69,6 @@ hi DiffText guifg=#000000 guibg=#4e4d80 guisp=#492224 gui=bold ctermfg=NONE cter
 hi SpellLocal guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
 hi Error guifg=#A1A6A8 guibg=#912C00 guisp=#912C00 gui=NONE ctermfg=248 ctermbg=88 cterm=NONE
 hi SpecialKey guifg=#5E6C70 guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
-hi Constant guifg=#393434 guibg=NONE guisp=NONE gui=NONE ctermfg=238 ctermbg=NONE cterm=NONE
 hi Tag guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi String guifg=#444444 guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE
 hi MatchParen guifg=#131314 guibg=#3c3c3c guisp=#a39ea3 gui=bold ctermfg=233 ctermbg=248 cterm=bold
@@ -103,3 +102,6 @@ hi Function guifg=#8AAC8B guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NON
 hi goFunctionCall guifg=#8AAC8B guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NONE cterm=NONE
 hi Visual guifg=#000000 guibg=#8AAC8B guisp=#F9F9FF gui=NONE ctermfg=0 ctermbg=115 cterm=NONE
 
+hi @Variable guifg=#A6A6A6 guibg=#000000 guisp=#14140f gui=NONE ctermfg=248 ctermbg=0 cterm=NONE
+hi Special guifg=#A6A6A6 guibg=#000000 guisp=#14140f gui=NONE ctermfg=248 ctermbg=0 cterm=NONE
+hi Constant guifg=#A6A6A6 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
