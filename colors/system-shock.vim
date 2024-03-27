@@ -102,6 +102,5 @@ hi Function guifg=#8AAC8B guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NON
 hi goFunctionCall guifg=#8AAC8B guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NONE cterm=NONE
 hi Visual guifg=#000000 guibg=#8AAC8B guisp=#F9F9FF gui=NONE ctermfg=0 ctermbg=115 cterm=NONE
 
-hi @Variable guifg=#A6A6A6 guibg=#000000 guisp=#14140f gui=NONE ctermfg=248 ctermbg=0 cterm=NONE
 hi Special guifg=#A6A6A6 guibg=#000000 guisp=#14140f gui=NONE ctermfg=248 ctermbg=0 cterm=NONE
 hi Constant guifg=#A6A6A6 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
